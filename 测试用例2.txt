@@ -1,0 +1,6 @@
+int main(){
+bool a = 1;
+const b = 3;
+float c = 3.14;
+return 0;
+}

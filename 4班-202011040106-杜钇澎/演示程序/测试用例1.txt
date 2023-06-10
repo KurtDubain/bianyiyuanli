@@ -1,0 +1,6 @@
+int main(){
+double a = 1.1;
+int b = 1;
+double sum = a +b ;
+return 0;
+}
